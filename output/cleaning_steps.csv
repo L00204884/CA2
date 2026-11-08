@@ -1,0 +1,11 @@
+"step","rows","removed"
+"Raw dataset",14289,NA
+"Exact duplicate rows removed",14281,8
+"Duplicate listings (same address and price) removed",14075,206
+"Listings without a numeric euro price removed (POA, N/A, GBP)",13090,985
+"Sites (land with no dwelling) removed",10877,2213
+"Unspecified property types removed (Houses, New Homes, Property)",10638,239
+"Missing or implausible floor area removed (<30 or >1,000 m2)",8380,2258
+"Implausible bedroom/bathroom counts removed (outside 1-10)",8230,150
+"Extreme prices removed (outside EUR 30k-3m)",8187,43
+"Listings with no county removed",7985,202

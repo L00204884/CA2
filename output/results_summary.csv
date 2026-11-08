@@ -1,0 +1,6 @@
+"RQ","test","statistic","p_value","effect_size","n"
+"RQ1","Kruskal-Wallis","H = 554.7, df = 4","<2e-16","epsilon2 = 0.073",7548
+"RQ2","Spearman correlation","rho = 0.566","<2e-16","rho = 0.566",7985
+"RQ3","Wilcoxon rank-sum (one-sided)","W = 9687188","<2e-16","r = 0.335",7985
+"RQ4","Chi-square test of independence","X2 = 6035.5, df = 12","<2e-16","Cramer's V = 0.611",5396
+"RQ5","Partial F-test (multiple regression)","F = 27.3, df = 4, 6000","<2e-16","Adj R2 0.682 -> 0.688",6038

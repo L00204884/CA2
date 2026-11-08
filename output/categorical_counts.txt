@@ -1,0 +1,20 @@
+$property_type
+
+    Apartment      Terraced Semi-detached      Bungalow      Detached 
+         1179          1599          1553           567          3087 
+
+$ber_band
+
+   A    B    C    D  E-G <NA> 
+ 496 1283 2665 1440 1664  437 
+
+$region
+
+         Dublin Rest of Ireland 
+           2486            5499 
+
+$build_era
+
+    Pre-1980    1980-1999    2000-2009 2010 onwards         <NA> 
+        2177         1121         1852          249         2586 
+
